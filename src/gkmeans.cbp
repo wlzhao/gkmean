@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gkmeans" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/gkmeans" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/gkmeans" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++11" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="abstractkmeans.cpp" />
+		<Unit filename="abstractkmeans.h" />
+		<Unit filename="cleaner.cpp" />
+		<Unit filename="cleaner.h" />
+		<Unit filename="clsinfo.h" />
+		<Unit filename="dataconvert.h" />
+		<Unit filename="distance.hpp" />
+		<Unit filename="evaluator.cpp" />
+		<Unit filename="evaluator.h" />
+		<Unit filename="ioagent.cpp" />
+		<Unit filename="ioagent.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="missionagent.cpp" />
+		<Unit filename="missionagent.h" />
+		<Unit filename="nn.h" />
+		<Unit filename="nngkmeans.cpp" />
+		<Unit filename="nngkmeans.h" />
+		<Unit filename="nnitem.h" />
+		<Unit filename="pqmath.cpp" />
+		<Unit filename="pqmath.h" />
+		<Unit filename="print2scrn.cpp" />
+		<Unit filename="print2scrn.h" />
+		<Unit filename="randompartition.cpp" />
+		<Unit filename="randompartition.h" />
+		<Unit filename="scriptparser.cpp" />
+		<Unit filename="scriptparser.h" />
+		<Unit filename="sparsematrix.h" />
+		<Unit filename="timer.cpp" />
+		<Unit filename="timer.h" />
+		<Unit filename="vstring.cpp" />
+		<Unit filename="vstring.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,751 @@
+# depslib dependency file v1.0
+1541336272 source:/home/wlzhao/src/c/gkmeans/abstractkmeans.cpp
+	"abstractkmeans.h"
+	"pqmath.h"
+	"timer.h"
+	<iostream>
+	<iomanip>
+	<cassert>
+	<fstream>
+	<cstring>
+	<cmath>
+	"pqmath.h"
+
+1541332390 /home/wlzhao/src/c/gkmeans/abstractkmeans.h
+	"sparsematrix.h"
+	"clsinfo.h"
+	"nnitem.h"
+	<unordered_set>
+	<vector>
+	<map>
+
+1541332390 /home/wlzhao/src/c/gkmeans/sparsematrix.h
+
+1541332390 /home/wlzhao/src/c/gkmeans/clsinfo.h
+	<vector>
+
+1541332390 /home/wlzhao/src/c/gkmeans/nnitem.h
+	<algorithm>
+	<vector>
+	<list>
+	<map>
+
+1541332390 /home/wlzhao/src/c/gkmeans/pqmath.h
+	"sparsematrix.h"
+	<set>
+
+1541332390 /home/wlzhao/src/c/gkmeans/timer.h
+	<ctime>
+
+1541332390 source:/home/wlzhao/src/c/gkmeans/cleaner.cpp
+	"cleaner.h"
+	<cassert>
+
+1541332390 /home/wlzhao/src/c/gkmeans/cleaner.h
+	"clsinfo.h"
+	"nnitem.h"
+	<vector>
+	<thread>
+	<list>
+	<map>
+	<set>
+
+1541332390 source:/home/wlzhao/src/c/gkmeans/evaluator.cpp
+	"evaluator.h"
+	"cleaner.h"
+	"pqmath.h"
+	"ioagent.h"
+	"vstring.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<limits>
+
+1541332390 /home/wlzhao/src/c/gkmeans/evaluator.h
+	<vector>
+	<map>
+	<set>
+
+1541332390 /home/wlzhao/src/c/gkmeans/ioagent.h
+	"sparsematrix.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1541332390 /home/wlzhao/src/c/gkmeans/vstring.h
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<set>
+
+1541332390 source:/home/wlzhao/src/c/gkmeans/ioagent.cpp
+	"ioagent.h"
+	"scriptparser.h"
+	"vstring.h"
+	"pqmath.h"
+	"cleaner.h"
+	<unordered_map>
+	<dirent.h>
+	<typeinfo>
+	<iostream>
+	<fstream>
+	<cassert>
+	<cstring>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+
+1541332390 /home/wlzhao/src/c/gkmeans/scriptparser.h
+	<string>
+	<vector>
+	<list>
+	<map>
+
+1541336787 source:/home/wlzhao/src/c/gkmeans/main.cpp
+	<iostream>
+	<fstream>
+	"missionagent.h"
+	"nngkmeans.h"
+	"evaluator.h"
+
+1541336461 /home/wlzhao/src/c/gkmeans/nngkmeans.h
+	"abstractkmeans.h"
+	<set>
+	<unordered_set>
+	"evaluator.h"
+
+1541336780 source:/home/wlzhao/src/c/gkmeans/missionagent.cpp
+	"missionagent.h"
+	"abstractkmeans.h"
+	"nngkmeans.h"
+	"evaluator.h"
+	"ioagent.h"
+	"cleaner.h"
+	"vstring.h"
+	<cstring>
+	<string>
+	<iostream>
+
+1541332390 /home/wlzhao/src/c/gkmeans/missionagent.h
+	<cstring>
+	<string>
+	<map>
+
+1541336634 source:/home/wlzhao/src/c/gkmeans/nngkmeans.cpp
+	"randompartition.h"
+	"nngkmeans.h"
+	"ioagent.h"
+	"vstring.h"
+	"timer.h"
+	"nn.h"
+	<unordered_map>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<cassert>
+	<cstdlib>
+	<vector>
+	<ctime>
+	<map>
+	<time.h>
+
+1541332390 /home/wlzhao/src/c/gkmeans/randompartition.h
+	"abstractkmeans.h"
+	"distance.hpp"
+	"nnitem.h"
+	<set>
+	<map>
+	<unordered_set>
+
+1541332390 /home/wlzhao/src/c/gkmeans/distance.hpp
+	<stdlib.h>
+	<vector>
+	<set>
+	<x86intrin.h>
+	<cmath>
+	<iostream>
+
+1541332390 /home/wlzhao/src/c/gkmeans/nn.h
+
+1541332390 source:/home/wlzhao/src/c/gkmeans/pqmath.cpp
+	"pqmath.h"
+	<unordered_map>
+	<iostream>
+	<cassert>
+	<cstring>
+	<cmath>
+	<map>
+
+1541332390 source:/home/wlzhao/src/c/gkmeans/print2scrn.cpp
+	"print2scrn.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cassert>
+
+1541332390 /home/wlzhao/src/c/gkmeans/print2scrn.h
+	"clsinfo.h"
+	"nnitem.h"
+	<vector>
+
+1541335512 source:/home/wlzhao/src/c/gkmeans/randompartition.cpp
+	"randompartition.h"
+	"print2scrn.h"
+	"ioagent.h"
+	"cleaner.h"
+	"vstring.h"
+	"nnitem.h"
+	"pqmath.h"
+	"timer.h"
+	<unordered_map>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<limits>
+	<cassert>
+	<cstdlib>
+	<bitset>
+	<vector>
+	<cmath>
+	<ctime>
+
+1541332390 source:/home/wlzhao/src/c/gkmeans/scriptparser.cpp
+	"scriptparser.h"
+	"vstring.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<cassert>
+	<list>
+
+1541332390 source:/home/wlzhao/src/c/gkmeans/timer.cpp
+	"timer.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1541332390 source:/home/wlzhao/src/c/gkmeans/vstring.cpp
+	<sys/types.h>
+	<dirent.h>
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<fstream>
+	<cstring>
+	<vector>
+	<cstdio>
+	<cmath>
+	<list>
+	"vstring.h"
+
+1541336272 source:/home/pclin/cpp/gkmeans/abstractkmeans.cpp
+	"abstractkmeans.h"
+	"pqmath.h"
+	"timer.h"
+	<iostream>
+	<iomanip>
+	<cassert>
+	<fstream>
+	<cstring>
+	<cmath>
+	"pqmath.h"
+
+1541337356 /home/pclin/cpp/gkmeans/abstractkmeans.h
+	"sparsematrix.h"
+	"clsinfo.h"
+	"nnitem.h"
+	<unordered_set>
+	<vector>
+	<map>
+
+1541332390 /home/pclin/cpp/gkmeans/sparsematrix.h
+
+1541332390 /home/pclin/cpp/gkmeans/clsinfo.h
+	<vector>
+
+1541332390 /home/pclin/cpp/gkmeans/nnitem.h
+	<algorithm>
+	<vector>
+	<list>
+	<map>
+
+1541332390 /home/pclin/cpp/gkmeans/pqmath.h
+	"sparsematrix.h"
+	<set>
+
+1541332390 /home/pclin/cpp/gkmeans/timer.h
+	<ctime>
+
+1541332390 source:/home/pclin/cpp/gkmeans/cleaner.cpp
+	"cleaner.h"
+	<cassert>
+
+1541332390 /home/pclin/cpp/gkmeans/cleaner.h
+	"clsinfo.h"
+	"nnitem.h"
+	<vector>
+	<thread>
+	<list>
+	<map>
+	<set>
+
+1541332390 source:/home/pclin/cpp/gkmeans/evaluator.cpp
+	"evaluator.h"
+	"cleaner.h"
+	"pqmath.h"
+	"ioagent.h"
+	"vstring.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<limits>
+
+1541332390 /home/pclin/cpp/gkmeans/evaluator.h
+	<vector>
+	<map>
+	<set>
+
+1541332390 /home/pclin/cpp/gkmeans/ioagent.h
+	"sparsematrix.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1541332390 /home/pclin/cpp/gkmeans/vstring.h
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<set>
+
+1541332390 source:/home/pclin/cpp/gkmeans/ioagent.cpp
+	"ioagent.h"
+	"scriptparser.h"
+	"vstring.h"
+	"pqmath.h"
+	"cleaner.h"
+	<unordered_map>
+	<dirent.h>
+	<typeinfo>
+	<iostream>
+	<fstream>
+	<cassert>
+	<cstring>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+
+1541332390 /home/pclin/cpp/gkmeans/scriptparser.h
+	<string>
+	<vector>
+	<list>
+	<map>
+
+1541336780 source:/home/pclin/cpp/gkmeans/missionagent.cpp
+	"missionagent.h"
+	"abstractkmeans.h"
+	"nngkmeans.h"
+	"evaluator.h"
+	"ioagent.h"
+	"cleaner.h"
+	"vstring.h"
+	<cstring>
+	<string>
+	<iostream>
+
+1541332390 /home/pclin/cpp/gkmeans/missionagent.h
+	<cstring>
+	<string>
+	<map>
+
+1562848404 /home/pclin/cpp/gkmeans/nngkmeans.h
+	"abstractkmeans.h"
+	<set>
+	<unordered_set>
+	"evaluator.h"
+
+1589009173 source:/home/pclin/cpp/gkmeans/nngkmeans.cpp
+	"randompartition.h"
+	"nngkmeans.h"
+	"ioagent.h"
+	"vstring.h"
+	"timer.h"
+	"nn.h"
+	<unordered_map>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<cassert>
+	<cstdlib>
+	<vector>
+	<ctime>
+	<map>
+	<time.h>
+
+1541332390 /home/pclin/cpp/gkmeans/randompartition.h
+	"abstractkmeans.h"
+	"distance.hpp"
+	"nnitem.h"
+	<set>
+	<map>
+	<unordered_set>
+
+1541332390 /home/pclin/cpp/gkmeans/distance.hpp
+	<stdlib.h>
+	<vector>
+	<set>
+	<x86intrin.h>
+	<cmath>
+	<iostream>
+
+1541332390 /home/pclin/cpp/gkmeans/nn.h
+
+1541332390 source:/home/pclin/cpp/gkmeans/pqmath.cpp
+	"pqmath.h"
+	<unordered_map>
+	<iostream>
+	<cassert>
+	<cstring>
+	<cmath>
+	<map>
+
+1541332390 source:/home/pclin/cpp/gkmeans/print2scrn.cpp
+	"print2scrn.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cassert>
+
+1541332390 /home/pclin/cpp/gkmeans/print2scrn.h
+	"clsinfo.h"
+	"nnitem.h"
+	<vector>
+
+1564539825 source:/home/pclin/cpp/gkmeans/randompartition.cpp
+	"randompartition.h"
+	"print2scrn.h"
+	"ioagent.h"
+	"cleaner.h"
+	"vstring.h"
+	"nnitem.h"
+	"pqmath.h"
+	"timer.h"
+	<unordered_map>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<limits>
+	<cassert>
+	<cstdlib>
+	<bitset>
+	<vector>
+	<cmath>
+	<ctime>
+
+1541332390 source:/home/pclin/cpp/gkmeans/scriptparser.cpp
+	"scriptparser.h"
+	"vstring.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<cassert>
+	<list>
+
+1541332390 source:/home/pclin/cpp/gkmeans/timer.cpp
+	"timer.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1541332390 source:/home/pclin/cpp/gkmeans/vstring.cpp
+	<sys/types.h>
+	<dirent.h>
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<fstream>
+	<cstring>
+	<vector>
+	<cstdio>
+	<cmath>
+	<list>
+	"vstring.h"
+
+1589010266 source:/home/pclin/cpp/gkmeans/main.cpp
+	<iostream>
+	<fstream>
+	"missionagent.h"
+	"nngkmeans.h"
+	"evaluator.h"
+
+1541336272 source:/home/pclin/cpp/git_gk/gkmean/src/abstractkmeans.cpp
+	"abstractkmeans.h"
+	"pqmath.h"
+	"timer.h"
+	<iostream>
+	<iomanip>
+	<cassert>
+	<fstream>
+	<cstring>
+	<cmath>
+	"pqmath.h"
+
+1541337356 /home/pclin/cpp/git_gk/gkmean/src/abstractkmeans.h
+	"sparsematrix.h"
+	"clsinfo.h"
+	"nnitem.h"
+	<unordered_set>
+	<vector>
+	<map>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/sparsematrix.h
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/clsinfo.h
+	<vector>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/nnitem.h
+	<algorithm>
+	<vector>
+	<list>
+	<map>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/pqmath.h
+	"sparsematrix.h"
+	<set>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/timer.h
+	<ctime>
+
+1541332390 source:/home/pclin/cpp/git_gk/gkmean/src/cleaner.cpp
+	"cleaner.h"
+	<cassert>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/cleaner.h
+	"clsinfo.h"
+	"nnitem.h"
+	<vector>
+	<thread>
+	<list>
+	<map>
+	<set>
+
+1541332390 source:/home/pclin/cpp/git_gk/gkmean/src/evaluator.cpp
+	"evaluator.h"
+	"cleaner.h"
+	"pqmath.h"
+	"ioagent.h"
+	"vstring.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<limits>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/evaluator.h
+	<vector>
+	<map>
+	<set>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/ioagent.h
+	"sparsematrix.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/vstring.h
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<set>
+
+1541332390 source:/home/pclin/cpp/git_gk/gkmean/src/ioagent.cpp
+	"ioagent.h"
+	"scriptparser.h"
+	"vstring.h"
+	"pqmath.h"
+	"cleaner.h"
+	<unordered_map>
+	<dirent.h>
+	<typeinfo>
+	<iostream>
+	<fstream>
+	<cassert>
+	<cstring>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/scriptparser.h
+	<string>
+	<vector>
+	<list>
+	<map>
+
+1589010266 source:/home/pclin/cpp/git_gk/gkmean/src/main.cpp
+	<iostream>
+	<fstream>
+	"missionagent.h"
+	"nngkmeans.h"
+	"evaluator.h"
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/missionagent.h
+	<cstring>
+	<string>
+	<map>
+
+1562848404 /home/pclin/cpp/git_gk/gkmean/src/nngkmeans.h
+	"abstractkmeans.h"
+	<set>
+	<unordered_set>
+	"evaluator.h"
+
+1541336780 source:/home/pclin/cpp/git_gk/gkmean/src/missionagent.cpp
+	"missionagent.h"
+	"abstractkmeans.h"
+	"nngkmeans.h"
+	"evaluator.h"
+	"ioagent.h"
+	"cleaner.h"
+	"vstring.h"
+	<cstring>
+	<string>
+	<iostream>
+
+1541332390 source:/home/pclin/cpp/git_gk/gkmean/src/pqmath.cpp
+	"pqmath.h"
+	<unordered_map>
+	<iostream>
+	<cassert>
+	<cstring>
+	<cmath>
+	<map>
+
+1541332390 source:/home/pclin/cpp/git_gk/gkmean/src/print2scrn.cpp
+	"print2scrn.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cassert>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/print2scrn.h
+	"clsinfo.h"
+	"nnitem.h"
+	<vector>
+
+1564539825 source:/home/pclin/cpp/git_gk/gkmean/src/randompartition.cpp
+	"randompartition.h"
+	"print2scrn.h"
+	"ioagent.h"
+	"cleaner.h"
+	"vstring.h"
+	"nnitem.h"
+	"pqmath.h"
+	"timer.h"
+	<unordered_map>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<limits>
+	<cassert>
+	<cstdlib>
+	<bitset>
+	<vector>
+	<cmath>
+	<ctime>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/randompartition.h
+	"abstractkmeans.h"
+	"distance.hpp"
+	"nnitem.h"
+	<set>
+	<map>
+	<unordered_set>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/distance.hpp
+	<stdlib.h>
+	<vector>
+	<set>
+	<x86intrin.h>
+	<cmath>
+	<iostream>
+
+1541332390 source:/home/pclin/cpp/git_gk/gkmean/src/scriptparser.cpp
+	"scriptparser.h"
+	"vstring.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<cassert>
+	<list>
+
+1541332390 source:/home/pclin/cpp/git_gk/gkmean/src/timer.cpp
+	"timer.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1541332390 source:/home/pclin/cpp/git_gk/gkmean/src/vstring.cpp
+	<sys/types.h>
+	<dirent.h>
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<fstream>
+	<cstring>
+	<vector>
+	<cstdio>
+	<cmath>
+	<list>
+	"vstring.h"
+
+1589041196 source:/home/pclin/cpp/git_gk/gkmean/src/nngkmeans.cpp
+	"randompartition.h"
+	"nngkmeans.h"
+	"ioagent.h"
+	"vstring.h"
+	"timer.h"
+	"nn.h"
+	<unordered_map>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<cassert>
+	<cstdlib>
+	<vector>
+	<ctime>
+	<map>
+	<time.h>
+
+1541332390 /home/pclin/cpp/git_gk/gkmean/src/nn.h
+
