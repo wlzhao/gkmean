@@ -36,13 +36,13 @@ Please cite gkmean in your publications if it helps your research:
   year      = {2018}
 }
 
-## **Contribute**
+## Contribute
 This project welcomes contributions and suggestions from all the users.
-
+```
 We use GitHub issues for tracking suggestions and bugs.
 
 
-## **Author**
+## Author
 Author: Wan-Lei Zhao
-
+```
 Date: May.-6-2020
