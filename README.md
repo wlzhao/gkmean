@@ -46,5 +46,4 @@ We use GitHub issues for tracking suggestions and bugs.
 
 ## Author
 Author: Wan-Lei Zhao
-```
 Date: May.-6-2020
