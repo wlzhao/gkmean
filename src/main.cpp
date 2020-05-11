@@ -12,7 +12,7 @@ using namespace std;
 @author: Wan-Lei Zhao
 @date:   May.-6-2020
 
-This project is an implementation of "On the Merge of k-NN graph"
+This project is an implementation of "Fast K-means Based on k-NN Graph"
 that is proposed by Wan-Lei Zhao.
 
 ***/
