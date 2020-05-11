@@ -24,7 +24,7 @@ The proposed fast k-means consists of two major steps. In the first step, the fa
 To run the GK-means, user is recommended to call "test()" function in "main.cpp". Dataset SIFT100K is attached with this package.
 
 
-## **References**
+## References
 Please cite gkmean in your publications if it helps your research:
 ```
 @inproceedings{WlZhao18,
