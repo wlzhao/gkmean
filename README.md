@@ -1,6 +1,7 @@
-#Scalable k -means Clustering: a k -Nearest Neighbor Graph based Approach
+# Scalable k -means Clustering: a k -Nearest Neighbor Graph based Approach
 
-## About the codes
+## Introduction
+
 
 
 ## Compilation
