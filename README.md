@@ -35,10 +35,10 @@ Please cite gkmean in your publications if it helps your research:
   pages     = {1220-1223},
   year      = {2018}
 }
+```
 
 
-
-## Contribute
+## **Contribute**
 This project welcomes contributions and suggestions from all the users.
 
 We use GitHub issues for tracking suggestions and bugs.
