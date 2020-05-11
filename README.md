@@ -26,7 +26,7 @@ To run the GK-means, user is recommended to call "test()" function in "main.cpp"
 
 ## **References**
 Please cite gkmean in your publications if it helps your research:
-
+```
 @inproceedings{WlZhao18,
   author    = {Chenghao Deng and
                Wanlei Zhao},
