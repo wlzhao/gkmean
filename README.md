@@ -19,7 +19,6 @@ The proposed fast k-means consists of two major steps. In the first step, the fa
 ## Compilation
 
 * The codes should be compiled with -std=c++11  or later. 
-```
 
 ## Run
 To run the GK-means, user is recommended to call "test()" function in "main.cpp". Dataset SIFT100K is attached with this package.
@@ -46,4 +45,5 @@ We use GitHub issues for tracking suggestions and bugs.
 
 ## **Author**
 Author: Wan-Lei Zhao
+
 Date: May.-6-2020
