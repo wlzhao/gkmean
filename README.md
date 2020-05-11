@@ -19,7 +19,6 @@ The proposed fast k-means consists of two major steps. In the first step, the fa
 ## Compilation
 
 * The codes should be compiled with -std=c++11  or later. 
-
 ```
 
 ## Run
@@ -43,7 +42,7 @@ Please cite gkmean in your publications if it helps your research:
 This project welcomes contributions and suggestions from all the users.
 
 We use GitHub issues for tracking suggestions and bugs.
-```
+
 
 ## **Author**
 Author: Wan-Lei Zhao
