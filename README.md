@@ -1,4 +1,11 @@
-# Scalable k -means Clustering: a k -Nearest Neighbor Graph based Approach
+# Scalable k-means Clustering: a k-Nearest Neighbor Graph based Approach
+
+
+
+ <p align="center">
+ <img src="img/gkmean.png" alt="architecture" width="500"/>
+ </p>
+
 
 ## Introduction
 
@@ -8,6 +15,7 @@
 
 
 ## Run
+
 
 
 
